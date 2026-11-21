@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid31491",
+  "B": "/home/dev/feedback/uid31491",
+  "sha": "ac9c232ca4d5bd8ec1c3e75318f13485d7226d8d",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "stefanberger",
+    "repo": "swtpm",
+    "sha": "ac9c232ca4d5bd8ec1c3e75318f13485d7226d8d"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "swtpm",
+    "cloneUrl": "https://github.com/Rrr119/swtpm.git"
+  },
+  "at": "2026-11-21T09:16:09.386Z"
+}
